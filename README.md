@@ -12,10 +12,6 @@ VitaMed is a responsive, modern landing page for a medical services platform. It
 - Article section with blog-style preview cards
 - Gradient-themed footer with navigation links
 
-## 📸 Preview
-
-![VitaMed Screenshot](images/screenshot.png)
-
 ## 🛠️ Technologies Used
 
 - HTML5
